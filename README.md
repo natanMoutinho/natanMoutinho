@@ -1,5 +1,14 @@
 ### olá, eu sou o Natan e seja bem vindo ao meu mundo
 
+<div align="center" >
+  <a href="https://github.com/natanMoutinho">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanMoutinho&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/natanMoutinho">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanMoutinho&layout=compact&theme=dark" />
+  </a>
+</div>
+
 <!--
 **natanMoutinho/natanMoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
